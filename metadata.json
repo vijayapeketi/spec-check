@@ -1,0 +1,6 @@
+{
+  "name": "SPEC-CHECK Safety Gate",
+  "description": "FDA-style pre-clearance safety gate for AI systems. Extracts requirements constraints and evaluates LLM outputs for template-execution bias, silent overrides, and single-vendor tendencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
